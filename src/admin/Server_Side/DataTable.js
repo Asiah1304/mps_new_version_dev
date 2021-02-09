@@ -13,7 +13,7 @@ import { Button, Pane, SearchInput } from 'evergreen-ui'
 // import { searchBegin } from "@syncfusion/ej2-react-grids";
 // import UserDetail from "../components/Cards/CardSettings"
 import { SERVER_URL } from '../../Constants';
-import { PlusIcon, SearchIcon} from "evergreen-ui";
+//import { PlusIcon, SearchIcon} from "evergreen-ui";
 
 
 function Dashboard(props) {
